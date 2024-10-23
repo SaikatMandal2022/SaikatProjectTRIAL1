@@ -1,10 +1,10 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
 getify,Kyle Simpson,GETIFY SOLUTIONS,"Austin, TX",getify@gmail.com,true,Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.,69,43917,2,2009-11-08T06:56:21Z
 benawad,Ben Awad,VOIDPET,"Austin, TX",,,"React.js, Typescript, Node.js, PostgreSQL",254,29009,4,2014-06-12T15:55:20Z
-steveklabnik,Steve Klabnik,OXIDECOMPUTER,"Austin, TX",steve@steveklabnik.com,,All i'm trying to do is enjoy every day to the fullest with my Pokémon.,831,6788,206,2008-10-06T17:40:28Z
+steveklabnik,Steve Klabnik,OXIDECOMPUTER,"Austin, TX",steve@steveklabnik.com,,All i'm trying to do is enjoy every day to the fullest with my PokÃ©mon.,831,6788,206,2008-10-06T17:40:28Z
 cloudflare,Cloudflare,,"San Francisco, London, Austin, Lisbon, Singapore",,,,474,6402,0,2010-06-25T01:24:59Z
 jbogard,Jimmy Bogard,"JIMMY BOGARD CONSULTING, LLC","Austin, TX",jimmy.bogard@gmail.com,,"The Barley Architect, Architect Consultant",139,5940,3,2009-07-13T18:05:22Z
-EvanBacon,Evan Bacon,EXPO,Austin TX,baconbrix@gmail.com,,Building ?? Expo • Follow me on ?? for updates ??,302,4571,90,2014-11-10T22:01:21Z
+EvanBacon,Evan Bacon,EXPO,Austin TX,baconbrix@gmail.com,,Building ?? Expo â€¢ Follow me on ?? for updates ??,302,4571,90,2014-11-10T22:01:21Z
 progrium,Jeff Lindsay,PROGRIUM TECHNOLOGY COMPANY,"Austin, TX",progrium@gmail.com,,,260,3807,93,2008-02-22T20:00:53Z
 oracle,Oracle,,"Austin, TX",opensource_ww_grp@oracle.com,,Open Source at Oracle,284,3698,0,2013-05-14T18:05:13Z
 GeostatsGuy,Michael Pyrcz,UTAUSTIN,"Austin, TX, USA",mpyrcz@austin.utexas.edu,true,"Full Professor at The University of Texas at Austin working on 
@@ -65,7 +65,7 @@ Previously React Native Core at @Facebook.",29,769,83,2008-08-26T13:08:50Z
 lecoursen,Laura Coursen,GITHUB,"Austin, TX",lecoursen@gmail.com,,"Technical writer, wife, mom, huge nerd.",11,763,3,2015-10-02T03:42:52Z
 jnewland,Jesse Newland,URCOMPUTERINGPAL,"Austin, TX",jesse@jnewland.com,true,?????????????,128,753,102,2008-01-25T02:28:12Z
 devinsays,Devin Price,WP THEMING,"Austin, Texas",devin@wptheming.com,,"Devin is a full-stack developer based in Austin, Texas. Building interesting things with WooCommerce @ Universal Yums.",51,742,11,2010-10-08T04:27:19Z
-KilledByAPixel,Frank Force,INDEPENDENT DEVELOPER,"Austin, TX",,true,Generative Artist • Game Designer • Software Engineer • Tiny Code Expert • Musician • Zen Buddhist • Friend to Cats,28,742,24,2015-12-09T16:19:40Z
+KilledByAPixel,Frank Force,INDEPENDENT DEVELOPER,"Austin, TX",,true,Generative Artist â€¢ Game Designer â€¢ Software Engineer â€¢ Tiny Code Expert â€¢ Musician â€¢ Zen Buddhist â€¢ Friend to Cats,28,742,24,2015-12-09T16:19:40Z
 aaronj1335,Aaron Stacy,GOOGLE,"Austin, Texas",,,a credible developer wouldn't know this much about shell scripting,124,736,36,2011-05-13T23:14:21Z
 MrChromebox,MrChromebox,,"Austin, TX",mrchromebox@gmail.com,,,23,731,0,2011-07-30T18:09:10Z
 hone,Terence Lee,HEROKU,"Austin, TX",hone02@gmail.com,,Blue Hat League,298,724,28,2008-07-09T00:55:04Z
@@ -76,7 +76,7 @@ yukezhu,Yuke Zhu,UT AUSTIN / NVIDIA,"Austin, TX",dr.yukezhu@gmail.com,,,7,654,7,
 Empact,Benjamin Woosley,,"Austin, TX",Ben.Woosley@gmail.com,,,222,634,90,2008-04-06T22:28:05Z
 bmeck,Bradley Farias,,"Austin, Texas",bradley.meck@gmail.com,,,353,634,22,2010-04-01T03:54:12Z
 hu-po,hu-po,,"Austin, TX",,,simulation explorer,97,617,255,2014-08-19T15:48:30Z
-HarshKapadia2,Harsh Kapadia,OURTECHCOMMUNITY @AMD,"Austin, TX, USA",contact@harshkapadia.me,,Software Engineer • Organiser @OurTechCommunity • FAE @amd,93,596,331,2019-04-30T11:56:11Z
+HarshKapadia2,Harsh Kapadia,OURTECHCOMMUNITY @AMD,"Austin, TX, USA",contact@harshkapadia.me,,Software Engineer â€¢ Organiser @OurTechCommunity â€¢ FAE @amd,93,596,331,2019-04-30T11:56:11Z
 thinkyhead,Scott Lahteine,THINKYHEAD SOFTWARE,"Austin, TX",,,Indie software developer. Project Maintainer for @MarlinFirmware.,68,592,39,2011-03-29T19:54:31Z
 CodyJasonBennett,Cody Bennett,,"Austin, TX",hi@codyb.co,true,"@pmndrs, @threejs | Mathematician, Physicist | Graphics, Games, Cats",75,586,0,2016-11-07T22:45:51Z
 daltoniam,Dalton,,"Austin, TX",daltoniam@gmail.com,,Developer. Disciple. Computer science aficionado. Mobile enthusiast. Drum machine. Rock climbing extraordinaire. The next American Ninja Warrior.,34,585,25,2011-07-09T18:54:44Z
@@ -141,7 +141,7 @@ stella3d,Stella Cannefax,,"Austin, TX",,,"trades & raves
 
 ",54,334,21,2015-08-31T15:47:22Z
 jjasghar,JJ Asghar,IBM,"Austin, Texas",awesome@ibm.com,,"Father, Husband, Eagle Scout, Beer Nerd, and Computer Nerd. I work as a Developer Advocate for IBM.",199,332,95,2011-05-25T21:55:33Z
-zsylvester,Zoltán Sylvester,"BUREAU OF ECONOMIC GEOLOGY, UT AUSTIN","Austin, TX",,,"Geologist interested in analyzing, modeling, and visualizing clastic sedimentary systems
+zsylvester,ZoltÃ¡n Sylvester,"BUREAU OF ECONOMIC GEOLOGY, UT AUSTIN","Austin, TX",,,"Geologist interested in analyzing, modeling, and visualizing clastic sedimentary systems
 ",21,331,47,2013-08-09T23:33:20Z
 xpl,Vitalik Gordon,NOW @AVRIDE / EX-@YANDEX / EX-@CCXT,"Austin, Texas, United States",,,???? ????? ?????,32,331,24,2008-02-29T08:35:36Z
 dustinkirkland,Dustin Kirkland,CHAINGUARD,"Austin, TX, USA",dustin.kirkland@gmail.com,,"VP of Engineering @chainguard-dev 
@@ -149,7 +149,7 @@ Open source author and maintainer",54,324,2,2011-06-08T23:32:26Z
 reaperhulk,Paul Kehrer,,Austin,,,,128,321,3,2009-12-03T17:42:24Z
 azuresphere7,AzureSphere,,"Austin, TX, United States",dustin.daniel.lee@gmail.com,,"Senior Software Engineer | Solutions Architect | Web, Mobile, Design",102,319,69,2016-12-20T14:38:34Z
 gilbert,Gilbert,,"Austin, TX",,,A humble programmer.,192,317,19,2008-07-14T15:11:51Z
-philkr,Philipp Krähenbühl,UT AUSTIN,"Austin, TX",,,,16,315,0,2010-11-20T05:25:19Z
+philkr,Philipp KrÃ¤henbÃ¼hl,UT AUSTIN,"Austin, TX",,,,16,315,0,2010-11-20T05:25:19Z
 irlnathan,Irl Nathan,,Austin,,,,115,310,1,2012-04-02T15:14:12Z
 jcran,Jonathan Cran,,"Austin, TX",yo@jcran.xyz,,"cybersecurity stuff, mostly",4,310,228,2009-04-23T03:54:35Z
 DavidAJohnston,David Johnston,MORPHEUS,Austin,DJohnstonEC@gmail.com,,"Technologist focused on Decentralizing Everything. Interested in Bitcoin, Ethereum, Morpheus & Smart Agents",129,303,171,2012-03-22T05:25:17Z
@@ -158,7 +158,7 @@ nodebotanist,Mx. Kassian Rosner Wren,INSTACLUSTR BY NETAPP,"Austin, TX",the@node
 shortstack,Whitney Champion,LIMACHARLIE,"Austin, TX",whitney.ellis.champion@gmail.com,,,36,301,69,2011-12-06T16:32:26Z
 scarolan,Sean Carolan,CAROLAN.IO,"Austin, TX",,true,Recovering System Administrator who left the cubicle and pager behind for the SE life,28,298,0,2010-09-16T20:20:04Z
 BDHU,Edward Hu,UNIVERSITY OF TEXAS AT AUSTIN,"Austin, Texas",,true,PhD student in UTNS @ UT Austin.,24,298,113,2014-11-15T07:08:21Z
-alvaromontoro,Alvaro Montoro,,"Austin, TX",alvaromontoro@gmail.com,,"Full-Stack Software Engineer, Mobile Developer, Web technologies enthusiast. CSS aficionado. Active moderator in StackOverflow en Español.",40,294,67,2012-08-23T15:33:22Z
+alvaromontoro,Alvaro Montoro,,"Austin, TX",alvaromontoro@gmail.com,,"Full-Stack Software Engineer, Mobile Developer, Web technologies enthusiast. CSS aficionado. Active moderator in StackOverflow en EspaÃ±ol.",40,294,67,2012-08-23T15:33:22Z
 jalapic,James Curley,,"Austin, Texas",,,"Associate Professor,
 Psychology Department,
 University of Texas at Austin",94,292,3,2014-06-15T22:26:16Z
@@ -228,7 +228,7 @@ MasonEgger,Mason Egger,TEMPORALIO,"Austin, TX",,,"Developer Educator at Temporal
 rfdickerson,Robert F. Dickerson,,"Austin, TX",,true,Machine Learning Engineer,178,224,235,2012-01-06T20:30:02Z
 jenperson,Jen Person,SQUIDCLOUDIO,"Austin, TX",,true,,35,224,3,2016-04-06T02:24:15Z
 kalefranz,Kale Franz,"ANACONDA, INC.","Austin, TX",,,"Former Principal Engineer at Anaconda, Inc. Previously a devops tech lead at 23andMe. EE PhD in semiconductors and optics.",94,222,6,2012-02-08T04:15:47Z
-realityexpander,Chris Athanas,FRED'S HISTORY TECHNOLOGY,"Austin, TX, USA & Tepoztlán, Morelos, Mexico",realityexpanderdev@gmail.com,,"Senior KMP/Android/iOS Software Developer, Seeming Mostly Human",469,221,55,2013-08-04T00:16:17Z
+realityexpander,Chris Athanas,FRED'S HISTORY TECHNOLOGY,"Austin, TX, USA & TepoztlÃ¡n, Morelos, Mexico",realityexpanderdev@gmail.com,,"Senior KMP/Android/iOS Software Developer, Seeming Mostly Human",469,221,55,2013-08-04T00:16:17Z
 jeffreypalermo,Jeffrey Palermo,"CLEAR MEASURE, INC.","Austin, TX",jeffrey@clear-measure.com,,,33,220,25,2009-07-12T20:14:40Z
 jeffamstutz,Jefferson Amstutz,NVIDIA,"Austin, TX",jeffamstutz@gmail.com,,,86,220,400,2013-02-20T20:00:44Z
 magento-engcom-team,Magento Community Engineering ,"MAGENTO, AN ADOBE COMPANY","Austin, TX",,,,1,220,0,2017-09-05T19:43:29Z
@@ -263,12 +263,12 @@ Machine Learning, AI, Big Data, Visualizations",15,199,196,2020-05-10T04:16:34Z
 koverholt,Kristopher Overholt,GOOGLE,"Austin, TX",,,Developer Advocate at Google,71,198,5,2010-06-12T00:07:33Z
 dokun1,David Okun,LTK,"Austin, TX",david@okun.io,,eng @ LTK,121,198,45,2012-10-17T22:54:47Z
 drewcrawford,Drew Crawford,DREWCRAWFORDAPPS,"Austin, TX",drew@sealedabstract.com,true,"Swift, iOS, Rust, C",71,197,10,2010-01-16T05:27:02Z
-beiatrix,beiatrix,,"austin, tx",,,???????? ????????? ?:*+.\(( °?° ))/.:+,22,195,11,2013-10-16T01:18:18Z
+beiatrix,beiatrix,,"austin, tx",,,???????? ????????? ?:*+.\(( Â°?Â° ))/.:+,22,195,11,2013-10-16T01:18:18Z
 PaulBratslavsky,Paul Bratslavsky,,"Austin, TX.",,,"HTML | CSS | JAVASCRIPT |
 REACT | REMIX | NEXT JS |  NODE JS | KOA | STRAPI",571,195,26,2013-12-10T15:45:53Z
 robertsosinski,Robert Sosinski,REACTIVE.IO @REACTIVE-IO,"Austin, TX & Washington, DC",,true,President & Founder of @reactive-io,33,195,7,2008-04-11T02:46:56Z
 dlo,Dan Loewenherz,CHAMPIFYIO,"Austin, TX",dan@champify.io,,building @champifyio ,117,195,174,2008-12-05T02:46:50Z
-DrewML,Andrew Levine,,"Austin, TX",,,¯\_(0_0)_/¯,103,194,11,2013-08-14T23:15:48Z
+DrewML,Andrew Levine,,"Austin, TX",,,Â¯\_(0_0)_/Â¯,103,194,11,2013-08-14T23:15:48Z
 sailpoint-oss,SailPoint,,"Austin, TX",developers@sailpoint.com,,"Open source tools, SDKs, and more provided by SailPoint.",79,194,0,2020-04-03T12:46:57Z
 brundonsmith,Brandon Smith,"SELF FINANCIAL, INC","Austin, TX",mail@brandons.me,,"Web professional | Most hobby projects are related to some subset of languages, games, graphics, and Rust",63,192,5,2013-02-23T01:47:13Z
 techthoughts2,Jake Morrison,AWS,"Austin, TX",tech@techthoughts.info,,,33,192,25,2015-09-21T04:58:12Z
@@ -299,7 +299,7 @@ sdnts,Siddhant,CLOUDFLARE,"Austin, TX",,,"Unfortunately computers are my hobby.
 
 Building R2 & Queues at Cloudflare. Built Prisma Studio in a past life. He/him.",24,178,0,2014-05-24T17:17:36Z
 mtscout6,Matt Smith,SAILPOINT,"Austin, TX",mtscout6@gmail.com,,,142,176,49,2011-04-18T14:59:28Z
-anibalsolon,Anibal Sólon,PHD STUDENT IN CS @ UTEXAS,"Austin, TX",anibalsolon@gmail.com,,Everywhere: @anibalsolon ,180,175,316,2011-01-13T11:23:40Z
+anibalsolon,Anibal SÃ³lon,PHD STUDENT IN CS @ UTEXAS,"Austin, TX",anibalsolon@gmail.com,,Everywhere: @anibalsolon ,180,175,316,2011-01-13T11:23:40Z
 mayoff,Rob Mayoff,,"Austin, Texas, USA, Earth",,,,149,175,0,2010-04-19T18:20:44Z
 teleject,Christopher Schmitt,TELEJECT,"Austin, TX",,,The Internet's Christopher Schmitt,84,175,68,2008-12-20T04:50:22Z
 ftarlaci,Fatma Tarlaci,RASTEGAR CAPITAL,"Austin, TX",,true,CTO at Rastegar Capital | AI Scientist | Adj. Prof at UTCS | Former Deep Learning Scholar @openai | @Stanford CS,72,174,62,2016-04-05T17:12:50Z
@@ -319,7 +319,7 @@ Previously - Facebook, AWS",126,167,38,2012-02-29T11:17:46Z
 loweryaustin,Austin Lowery,,Austin TX,,,,10,167,4,2012-07-19T08:27:14Z
 mattdeboard,Matt DeBoard,,"Austin, TX",,,,104,164,35,2010-06-16T08:39:00Z
 Robdel12,Robert DeLuca,,"Austin, TX",,true,Senior Software Engineer ,137,164,52,2012-07-31T18:39:21Z
-acmacalister,Austin Cherry,TEAMCURRI,"Austin, TX",acmacalister@gmail.com,,"Believer in Jesus Christ. Amateur goal miss'er, Ultimate disc dropper and regular golf duffer. Creating incidents and automating things that shouldn’t be.",41,163,19,2011-09-04T02:36:49Z
+acmacalister,Austin Cherry,TEAMCURRI,"Austin, TX",acmacalister@gmail.com,,"Believer in Jesus Christ. Amateur goal miss'er, Ultimate disc dropper and regular golf duffer. Creating incidents and automating things that shouldnâ€™t be.",41,163,19,2011-09-04T02:36:49Z
 MalwareArchaeology,MalwareArchaeology,MALWARE ARCHAEOLOGY LLC,"Austin, TX.",info@MalwareArchaeology.com,,Home of the Windows Logging Cheat Sheets,2,162,0,2018-11-08T17:09:57Z
 hari-sikchi,Harshit Sikchi,,University of Texas at Austin,,true," Reinforcement Learning, Roboticist",80,162,32,2015-12-04T06:33:08Z
 omniedgeio,OmniEdge,,"Austin,TX",,,"Bring intranet on the internet. What happens in intranet, stays in intranet. ",24,161,0,2021-01-12T12:35:04Z
@@ -386,7 +386,7 @@ bcook-r7,Brent Cook,RAPID7,"Austin, TX",,,Rapid7 Account,4,140,0,2014-12-01T16:1
 witoff,Rob Witoff,NASA JET PROPULSION LABORATORY,"Austin, Texas",robert.witoff@gmail.com,,,77,139,16,2012-01-07T21:13:24Z
 RobertLRead,Robert L. Read,ROBERTLEEREAD,"Austin, TX",read.robert@gmail.com,true,,24,138,37,2013-08-23T17:38:08Z
 lewing,Larry Ewing,MICROSOFT,"Austin, TX",lewing@microsoft.com,,Lead for .NET wasm runtimes @microsoft,42,138,20,2008-09-10T23:07:17Z
-EttusResearch,Ettus Research,,"Austin, TX",support@ettus.com,,Home of the USRP™ Software-Defined Radio!,23,137,0,2009-09-11T10:39:20Z
+EttusResearch,Ettus Research,,"Austin, TX",support@ettus.com,,Home of the USRPâ„¢ Software-Defined Radio!,23,137,0,2009-09-11T10:39:20Z
 jshcrowthe,Josh Crowther,,"Austin, TX",,,Software Engineer,62,137,46,2013-10-01T19:41:59Z
 ccraddock,Cameron Craddock,,"Austin, Texas",cameron.craddock@gmail.com,,,92,137,19,2012-05-10T04:47:35Z
 damon,Damon Clinkscales,,"Austin, TX",,,Shepherd.,16,137,94,2008-02-17T20:29:46Z
@@ -399,7 +399,7 @@ kernelsmith,Josh,THEZDI,"Austin, TX",,true,"ZDI, former MSF Dev, RPI grad, the c
 moagrius,Mike Dunn,,"Austin, TX",,,I am a human person,41,135,0,2011-03-31T11:06:31Z
 hellobrian,Brian Han,,"Austin, TX",,true,UX Developer at Indeed,137,135,74,2013-04-17T21:20:56Z
 SaltyQuetzals,Gabriel Britain,MICROSOFT,"Austin, TX",,true,"MS in Human-Computer Interaction from Georgia Tech, BS in Computer Science from TAMU",31,134,250,2015-11-19T03:08:09Z
-Xibanya,Manuela Malasaña,TEAM DOGPIT,"Austin, TX",,,Gamedev and owner of award-winning ATX indie studio Team Dogpit,25,134,27,2015-08-13T16:26:50Z
+Xibanya,Manuela MalasaÃ±a,TEAM DOGPIT,"Austin, TX",,,Gamedev and owner of award-winning ATX indie studio Team Dogpit,25,134,27,2015-08-13T16:26:50Z
 jakecraige,Jake Craige,,"Austin, TX",,,,97,133,31,2013-03-07T15:54:57Z
 joahg,Joah Gerstenberg,SQUAREUP,"Austin, Texas",me@joahg.com,,,6,132,88,2012-08-16T16:04:47Z
 baalexander,Brandon Alexander,,"Austin, TX",baalexander@gmail.com,,,3,132,49,2009-05-12T18:03:35Z
@@ -437,7 +437,7 @@ WillAbides,WillAbides,,"Austin, TX",,true,,135,123,28,2010-03-30T16:37:29Z
 AutoMapper,AutoMapper,,"Austin, TX",,,,11,123,0,2011-07-02T20:52:34Z
 ericyd,Eric Yancey Dauenhauer,,"Austin, TX",eric@ericyd.com,,"Just a human, doing my best",55,123,7,2014-08-06T23:22:54Z
 jimbojsb,Josh Butts,ZIFF MEDIA GROUP,"Austin, TX",josh@joshbutts.com,,"SVP, CTO",99,122,1,2009-07-23T03:14:19Z
-lovemecomputer,Audrey Moon,CARBON-DESIGN-SYSTEM,austin,,,??????· ???????· she/they · @soft-aesthetic dev enviros,51,122,49,2013-03-12T19:23:34Z
+lovemecomputer,Audrey Moon,CARBON-DESIGN-SYSTEM,austin,,,??????Â· ???????Â· she/they Â· @soft-aesthetic dev enviros,51,122,49,2013-03-12T19:23:34Z
 camilonova,Camilo Nova,AXIACORE,"Austin, TX",,,CEO @ Axiacore,88,122,18,2010-02-12T16:31:32Z
 joshknowles,Josh Knowles,,"Austin, TX",joshknowles@gmail.com,,,14,122,43,2008-01-25T21:30:42Z
 ianjennings,Ian Jennings,DASHCAMIO,"Austin, TX",ian@meetjennings.com,true,"Last of the freelance hackers, greatest sword fighter in the world.",218,122,88,2010-06-30T03:08:13Z
@@ -552,7 +552,7 @@ patrickocoffeyo,Patrick Coffey,NBC UNIVERSAL,Austin Texas,patrickcoffey48@gmail.
 fearphage,Phred Lane,USTUDIO,"Austin, TX",fearphage+github@gmail.com,,,254,101,56,2008-09-09T22:48:49Z
 kc5nra,John R. Bradley,"TURRET TECHNOLOGY, LLC.","Austin, TX",jrbradley@gmail.com,true,,62,101,0,2010-03-26T15:32:01Z
 astashov,Anton Astashov,INDEED,"Austin, TX",anton.astashov@gmail.com,,,87,101,18,2008-06-06T08:20:55Z
-mpakus,"Ibragimov ""MpaK"" Renat",AÖMEGA,"Austin, Texas",renat@aomega.co,true,"If you wake up at a different time in a different place, could you wake up as a different person?",119,101,93,2010-06-23T07:21:53Z
+mpakus,"Ibragimov ""MpaK"" Renat",AÃ–MEGA,"Austin, Texas",renat@aomega.co,true,"If you wake up at a different time in a different place, could you wake up as a different person?",119,101,93,2010-06-23T07:21:53Z
 dbredvick,Drew Bredvick,VERCEL,"Austin, TX",dbredvick@gmail.com,,"Building SaaS for GTM teams while growing sales engineering ? 
 @Vercel",69,101,3,2015-01-16T21:46:31Z
 mutualmobile,Mutual Mobile,,"Austin, TX",,,We build breakthrough products in partnership with the world's leading companies.,86,101,0,2009-12-11T23:41:54Z
